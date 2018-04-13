@@ -16,7 +16,7 @@ Run the script like normal with
 ```bash
 python mario.py
 ```
-It should launch whatever your specified game is.\
+It should launch whatever your specified game is.
 
 Credit to [Denilson](https://askubuntu.com/users/8668/denilson-s%c3%a1-maia) for [this answer](https://askubuntu.com/a/516336) at askubuntu for the majority of the code. \
 I was advised to upload this since all of this info was surprisingly difficult to find.
